@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3p3h+WlZ8UpTpZfLPyC37ohsONzJXJNaB407IEQnBSVnrrz9jU3etWRLdOgbff0kfut1QTXBV5MLyxA9ANp8Fg==",
+  "dgSpecHash": "r1o7vojqE7BUotIFGRTAMW5DIZRo6n0VgkQ6u+Jhr1qUN0CH2HioZ37hsMy0VO7ylDQtS41MDMQMvILfeSSFUg==",
   "success": true,
-  "projectFilePath": "/Users/djidorot/Documents/GitHub/CSharp/arrayInt/arrayInt/arrayInt.csproj",
+  "projectFilePath": "/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayInt/arrayInt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

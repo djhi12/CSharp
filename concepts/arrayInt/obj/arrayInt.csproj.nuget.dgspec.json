@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/djidorot/Documents/GitHub/CSharp/arrayInt/arrayInt/arrayInt.csproj": {}
+    "/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayInt/arrayInt.csproj": {}
   },
   "projects": {
-    "/Users/djidorot/Documents/GitHub/CSharp/arrayInt/arrayInt/arrayInt.csproj": {
+    "/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayInt/arrayInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/djidorot/Documents/GitHub/CSharp/arrayInt/arrayInt/arrayInt.csproj",
+        "projectUniqueName": "/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayInt/arrayInt.csproj",
         "projectName": "arrayInt",
-        "projectPath": "/Users/djidorot/Documents/GitHub/CSharp/arrayInt/arrayInt/arrayInt.csproj",
+        "projectPath": "/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayInt/arrayInt.csproj",
         "packagesPath": "/Users/djidorot/.nuget/packages/",
-        "outputPath": "/Users/djidorot/Documents/GitHub/CSharp/arrayInt/arrayInt/obj/",
+        "outputPath": "/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayInt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/djidorot/.nuget/NuGet/NuGet.Config"
