@@ -1,0 +1,15 @@
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/bin/Debug/net8.0/arrayStr
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/bin/Debug/net8.0/arrayStr.deps.json
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/bin/Debug/net8.0/arrayStr.runtimeconfig.json
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/bin/Debug/net8.0/arrayStr.dll
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/bin/Debug/net8.0/arrayStr.pdb
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.AssemblyInfoInputs.cache
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.AssemblyInfo.cs
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.csproj.CoreCompileInputs.cache
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.sourcelink.json
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.dll
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/refint/arrayStr.dll
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.pdb
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/arrayStr.genruntimeconfig.cache
+/Users/djidorot/Documents/GitHub/CSharp/concepts/arrayStr/obj/Debug/net8.0/ref/arrayStr.dll
